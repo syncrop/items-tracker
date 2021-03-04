@@ -1,7 +1,27 @@
 {
   "id": "5f5416726fa948cb9df451e138523617",
-  "title": "PikesPeak",
-  "description": "PikesPeak",
+  "title": "Crayta",
+  "description": "Crayta",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/item/EGS_CraytaStarterEdition_Unit2Games_S3-2560x1440-4e7978b010d2eff868caad980e9000b9.jpg",
+      "md5": "4e7978b010d2eff868caad980e9000b9",
+      "width": 2560,
+      "height": 1440,
+      "size": 1002546,
+      "uploadedDate": "2021-02-04T00:59:15.852Z"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/item/EGS_CraytaStarterEdition_Unit2Games_S2-1200x1600-9d74e509e07a02ed9007ec5e5696544b.jpg",
+      "md5": "9d74e509e07a02ed9007ec5e5696544b",
+      "width": 1200,
+      "height": 1600,
+      "size": 817408,
+      "uploadedDate": "2021-02-04T00:59:25.839Z"
+    }
+  ],
   "categories": [
     {
       "path": "public"
@@ -16,7 +36,7 @@
   "namespace": "bb9f87bb3d0042258bb1c97397bc60f2",
   "status": "ACTIVE",
   "creationDate": "2020-09-25T19:53:46.131Z",
-  "lastModifiedDate": "2020-10-29T20:36:58.816Z",
+  "lastModifiedDate": "2021-02-11T21:42:01.999Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -44,7 +64,7 @@
     },
     "FolderName": {
       "type": "STRING",
-      "value": "PikesPeak"
+      "value": "Crayta"
     }
   },
   "entitlementName": "5f5416726fa948cb9df451e138523617",
@@ -57,7 +77,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-10-19T19:43:13.227Z"
+      "dateAdded": "2020-10-19T00:00:00.000Z"
     }
   ],
   "developer": "Unit 2 Games",
@@ -67,6 +87,7 @@
   ],
   "endOfSupport": false,
   "ageGatings": {},
+  "applicationId": "fghi4567SETDh9wBbVK3riBygctDAHkL",
   "requiresSecureAccount": false,
   "unsearchable": false
 }

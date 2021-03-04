@@ -1,7 +1,8 @@
 {
   "id": "cefe618e698a42519ee9e9c8fab0409d",
-  "title": "MooncakeOSTGeneralAudience",
-  "description": "MooncakeOSTGeneralAudience",
+  "title": "MooncakeStreamingAudience",
+  "description": "MooncakeStreamingAudience",
+  "keyImages": [],
   "categories": [
     {
       "path": "audience"
@@ -13,7 +14,7 @@
   "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T22:07:02.295Z",
-  "lastModifiedDate": "2020-09-10T17:21:35.696Z",
+  "lastModifiedDate": "2021-03-02T17:39:50.607Z",
   "customAttributes": {
     "SupportedPlatforms": {
       "type": "STRING",

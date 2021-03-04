@@ -36,7 +36,7 @@
   "namespace": "oregano",
   "status": "ACTIVE",
   "creationDate": "2019-12-06T15:26:43.636Z",
-  "lastModifiedDate": "2020-03-16T14:52:17.608Z",
+  "lastModifiedDate": "2021-03-01T19:58:44.703Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -101,5 +101,6 @@
     "egstore"
   ],
   "endOfSupport": false,
+  "ageGatings": {},
   "unsearchable": false
 }

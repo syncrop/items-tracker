@@ -16,11 +16,27 @@
   "namespace": "e192c537dd6d47ce9a9b00b643c3cdb9",
   "status": "ACTIVE",
   "creationDate": "2020-08-25T22:23:35.925Z",
-  "lastModifiedDate": "2020-11-06T16:31:00.714Z",
+  "lastModifiedDate": "2021-01-28T16:58:55.530Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{AppData}/Medium/Saved/SaveGames/"
+    },
+    "extraLaunchOption_001_Args": {
+      "type": "STRING",
+      "value": "-dx12"
+    },
+    "CloudIncludeList": {
+      "type": "STRING",
+      "value": "*.sav"
+    },
+    "extraLaunchOption_001_Name": {
+      "type": "STRING",
+      "value": "The Medium DirectX Selector"
     },
     "FolderName": {
       "type": "STRING",
@@ -37,7 +53,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-08-25T22:53:40.484Z"
+      "dateAdded": "2020-08-25T00:00:00.000Z"
     }
   ],
   "developer": "Bloober Team",

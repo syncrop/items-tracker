@@ -36,7 +36,7 @@
   "namespace": "a443faa3d6304a7dacd7456e0f6b0fa6",
   "status": "ACTIVE",
   "creationDate": "2020-08-31T18:20:59.181Z",
-  "lastModifiedDate": "2020-09-10T19:54:19.162Z",
+  "lastModifiedDate": "2021-01-14T05:15:06.128Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -62,9 +62,21 @@
       "type": "STRING",
       "value": "true"
     },
+    "partnerLinkId": {
+      "type": "STRING",
+      "value": "dafe7ea8a412436ca5085fce865398e2"
+    },
+    "partnerLinkType": {
+      "type": "STRING",
+      "value": "ubisoft"
+    },
     "FolderName": {
       "type": "STRING",
       "value": "ScottPilgrimVsTheWorld"
+    },
+    "neverUpdate": {
+      "type": "STRING",
+      "value": "true"
     }
   },
   "entitlementName": "b81d7fb9ad394827976f0639a71e58ad",

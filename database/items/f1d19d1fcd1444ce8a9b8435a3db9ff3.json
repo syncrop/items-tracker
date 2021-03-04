@@ -5,21 +5,21 @@
   "keyImages": [
     {
       "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Epic-SMITE-7.10-LandscapeIMG-2560x1440-2560x1440-f459859e6c76c1d0d00671044da42d92.jpg",
-      "md5": "f459859e6c76c1d0d00671044da42d92",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/LandscapeIMG-Tiamat-2560x1440-2560x1440-bd434eb41e6730059570204f6f0513ec.jpg",
+      "md5": "bd434eb41e6730059570204f6f0513ec",
       "width": 2560,
       "height": 1440,
-      "size": 571711,
-      "uploadedDate": "2020-11-03T18:54:48.967Z"
+      "size": 600631,
+      "uploadedDate": "2021-02-23T01:44:08.173Z"
     },
     {
       "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/Epic-SMITE-7.10-PortraitIMG-860x1148-860x1148-d80f7a812bcbb4bd38aed5f9738d6ae4.jpg",
-      "md5": "d80f7a812bcbb4bd38aed5f9738d6ae4",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/item/PortraitIMG-Tiamat-860x1148-860x1148-a8d37c57584931c1590c992c49d7fac7.jpg",
+      "md5": "a8d37c57584931c1590c992c49d7fac7",
       "width": 860,
       "height": 1148,
-      "size": 236228,
-      "uploadedDate": "2020-11-03T18:54:55.598Z"
+      "size": 235777,
+      "uploadedDate": "2021-02-23T01:44:11.390Z"
     }
   ],
   "categories": [
@@ -36,7 +36,7 @@
   "namespace": "076207fa2b5c4803a636af606c3c28b7",
   "status": "ACTIVE",
   "creationDate": "2019-10-18T01:53:04.913Z",
-  "lastModifiedDate": "2020-11-03T18:55:01.094Z",
+  "lastModifiedDate": "2021-02-23T11:56:55.858Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",

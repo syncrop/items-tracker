@@ -16,11 +16,19 @@
   "namespace": "02c14a01b7044db98de3f3a10813a42e",
   "status": "ACTIVE",
   "creationDate": "2020-09-08T17:30:29.626Z",
-  "lastModifiedDate": "2020-10-21T15:40:06.767Z",
+  "lastModifiedDate": "2021-02-23T19:32:41.958Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
+    },
+    "CloudSaveFolder": {
+      "type": "STRING",
+      "value": "{UserDir}/Humankind/Save Files/Cloud"
+    },
+    "MaxSizeMB": {
+      "type": "STRING",
+      "value": "500"
     },
     "FolderName": {
       "type": "STRING",
@@ -37,7 +45,7 @@
       "platform": [
         "Windows"
       ],
-      "dateAdded": "2020-10-13T18:32:14.238Z"
+      "dateAdded": "2020-10-13T00:00:00.000Z"
     }
   ],
   "developer": "SEGA of Europe",

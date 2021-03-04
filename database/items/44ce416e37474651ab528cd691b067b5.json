@@ -1,0 +1,72 @@
+{
+  "id": "44ce416e37474651ab528cd691b067b5",
+  "title": "Germanium",
+  "description": "Germanium",
+  "categories": [
+    {
+      "path": "public"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "4a9527d6d2984bb39d527631b94ec7f2",
+  "status": "ACTIVE",
+  "creationDate": "2020-12-21T21:00:31.195Z",
+  "lastModifiedDate": "2021-02-19T15:13:47.668Z",
+  "customAttributes": {
+    "CanRunOffline": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "4a9527d6d2984bb39d527631b94ec7f2"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "FolderName": {
+      "type": "STRING",
+      "value": "Germanium"
+    }
+  },
+  "entitlementName": "44ce416e37474651ab528cd691b067b5",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "05699308364342b2a28020fc9f69fb21",
+      "appId": "12aa686d0df0456884a73b976652012f",
+      "platform": [
+        "Windows"
+      ],
+      "dateAdded": "2021-01-23T00:00:00.000Z"
+    }
+  ],
+  "developer": "Milestone Srl",
+  "developerId": "o-n7dnjfk8y2kzquszv8mfn55fg68f7a",
+  "eulaIds": [
+    "egstore"
+  ],
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
