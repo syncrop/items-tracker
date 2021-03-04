@@ -111,7 +111,7 @@ class Main {
     Fs.writeFileSync(`${this.databasePath}/titles.json`, JSON.stringify(titles, null, 2));
     Fs.writeFileSync(`${this.databasePath}/list.json`, JSON.stringify(list, null, 2));
   }
-
+///SDFAsd
   async sync () {
     if (!process.env.GIT_REMOTE) return;
     console.log('Syncing with repo...');
@@ -129,7 +129,7 @@ class Main {
     await git.add([`${this.databasePath}/.`]);
     const commitMessage = `Update - ${new Date().toISOString()}`;
     await git.commit(commitMessage);
-    await git.removeRemote('origin');
+    await git.removeRemote('origin'); 
     await git.addRemote('origin', process.env.GIT_REMOTE);
     await git.push(['-u', 'origin', 'master']);
     console.log(`Changes has commited to repo with message ${commitMessage}`);
